@@ -4,7 +4,7 @@
 RAS
 
 ## 2 - Code pour modélisation
-La préview du jupyter notebook ne s'affiche pas sur github, pour la preview fonctionnelle : https://nbviewer.jupyter.org/github/TheoIsambourg/Python_for_data_analysis/blob/master/pickle-reader_The%CC%81o_Isambourg.ipynb
+La preview du jupyter notebook ne s'affiche pas sur github, pour la preview fonctionnelle : https://nbviewer.jupyter.org/github/TheoIsambourg/Python_for_data_analysis/blob/master/pickle-reader_The%CC%81o_Isambourg.ipynb
 ### a - Data visualisation
 Comme les données de l'accéléromètre sont temporelles, pas de matrice de corrélation ou autre tests similaires possibles...
 ### b - Modélisation
